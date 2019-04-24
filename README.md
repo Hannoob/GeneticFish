@@ -51,7 +51,7 @@ The genome is also responsible for determining the size, color and eye position 
 The final product is depicted in the following image.
 From this image, one can see all the variables that can be tweaked in order to have some cool behaviours emerge.
 
-(I still have to add the image but Game of thrones is coming out tonight).
+![An image of the initial starting conditions of the fishbowl](https://github.com/Hannoob/GeneticFish/blob/master/images/initial.bmp).
 
 ## What I learned
 This was probably one of the projects that I learnt the most from.
